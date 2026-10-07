@@ -24,3 +24,8 @@ books.xlsx with 20 rows and 4 columns.
 
 ## Notes
 Only scrapes public data from a site designed for scraping practice.
+
+## Screenshots
+
+![Excel Output](screenshots/excel-output1.png)
+![Excel Output](screenshots/excel-output2.png)
